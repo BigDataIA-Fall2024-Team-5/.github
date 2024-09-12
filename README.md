@@ -1,2 +1,12 @@
-# .github
-This .github repository is for our Big Data Analytics team of 3 students. It contains templates and workflows for consistent project management, including issue and pull request templates. The goal is to streamline collaboration and ensure a smooth development process across all team projects.
+# .github Repository
+
+This is the `.github` repository for our Big Data Analytics team. It will eventually hold templates, workflows, and guidelines that apply to all repositories within our organization. 
+
+## What Will Be Added
+
+- **Issue and Pull Request Templates**
+- **GitHub Actions Workflows**
+- **Contribution Guidelines**
+
+Stay tuned as we build out this repository to streamline collaboration and ensure consistent project management!
+
